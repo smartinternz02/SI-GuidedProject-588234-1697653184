@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E48F0</color>
+    <color name="colorPrimaryLight">#7074ff</color>
+    <color name="colorPrimaryDark">#0020bc</color>
+    <color name="colorSecondary">#3a80ef</color>
+    <color name="colorSecondaryLight">#7aafff</color>
+    <color name="colorSecondaryDark">#0054bc</color>
+    <color name="actionBarColor">@color/dark_gray</color>
+    <color name="black">#FF000000</color>
+    <color name="dark_gray">#121212</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBarColor">@color/black</color>
+    <color name="currencyCode">#B4BAB4</color>
+    <color name="colorForRvTag">#333232</color>
+    <color name="incomeColor">#3E7C0A</color>
+    <color name="expenseColor">#DB0909</color>
+    <color name="chartCenterBackground">?attr/colorOnBackground</color>
+    <color name="background">#121212</color>
+</resources>
